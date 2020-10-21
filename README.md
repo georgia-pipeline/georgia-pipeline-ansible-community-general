@@ -1,1 +1,1 @@
-# georgia-pipeline-ansible-community-general
+# georgia-pipeline-ansible-slim
